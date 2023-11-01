@@ -1,0 +1,44 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Tu luchador usa o uso mascara?",
+      "propiedad": "mascara"
+    },
+    {
+      "pregunta": "Tu luchador sigue activo en la actualidad?",
+      "propiedad": "activo"
+    },
+    {
+      "pregunta": "Tu luchador pertenece o pertenecio a la AAA?",
+      "propiedad": "aaa"
+    },
+    {
+      "pregunta": "Tu luchador pertenece o pertenecio al CMLL?",
+      "propiedad": "cmll"
+    },
+    {
+      "pregunta": "Tu luchador ha perdido la mascara?",
+      "propiedad": "perder"
+    },
+    {
+      "pregunta": "Tu luchador ha formado parte de un equipo importante?",
+      "propiedad": "equipo"
+    },
+    {
+      "pregunta": "Tu luchador sigue vivo?",
+      "propiedad": "vivo"
+    },
+    {
+      "pregunta": "Tu luchador fue relevante el siglo pasado?",
+      "propiedad": "siglo"
+    },
+    {
+      "pregunta": "Tu luchador ha salido en alguna pelicula?",
+      "propiedad": "pelicula"
+    },
+    {
+      "pregunta": "Tu luchador ha ganado alguna máscara?",
+      "propiedad": "ganar"
+    }
+  ]
+}

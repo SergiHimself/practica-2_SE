@@ -1,0 +1,154 @@
+{
+  "personajes": [
+    {
+      "nombre": "Mistico",
+      "propiedades": {
+        "mascara": true,
+        "activo": true,
+        "aaa": true,
+        "cmll": true,
+        "perder": false,
+        "equipo": false,
+        "vivo": true,
+        "siglo": false,
+        "pelicula": false,
+        "ganar": true
+      }
+    },
+    {
+      "nombre": "El Santo",
+      "propiedades": {
+        "mascara": true,
+        "activo": false,
+        "aaa": false,
+        "cmll": true,
+        "perder": false,
+        "equipo": false,
+        "vivo": false,
+        "siglo": true,
+        "pelicula": true,
+        "ganar": true
+      }
+    },
+    {
+      "nombre": "El Hijo del Perro Aguayo",
+      "propiedades": {
+        "mascara": false,
+        "activo": false,
+        "aaa": true,
+        "cmll": true,
+        "perder": false,
+        "equipo": true,
+        "vivo": false,
+        "siglo": false,
+        "pelicula": false,
+        "ganar": false
+      }
+    },
+    {
+      "nombre": "Perro Aguayo",
+      "propiedades": {
+        "mascara": false,
+        "activo": false,
+        "aaa": true,
+        "cmll": true,
+        "perder": false,
+        "equipo": false,
+        "vivo": false,
+        "siglo": true,
+        "pelicula": false,
+        "ganar": true
+      }
+    },
+    {
+      "nombre": "Villano III",
+      "propiedades": {
+        "mascara": true,
+        "activo": false,
+        "aaa": true,
+        "cmll": true,
+        "perder": true,
+        "equipo": true,
+        "vivo": false,
+        "siglo": true,
+        "pelicula": false,
+        "ganar": true
+      }
+    },
+    {
+      "nombre": "Hijo del Vikingo",
+      "propiedades": {
+        "mascara": false,
+        "activo": true,
+        "aaa": true,
+        "cmll": false,
+        "perder": false,
+        "equipo": false,
+        "vivo": true,
+        "siglo": false,
+        "pelicula": false,
+        "ganar": false
+      }
+    },
+    {
+      "nombre": "Atlantis",
+      "propiedades": {
+        "mascara": true,
+        "activo": true,
+        "aaa": false,
+        "cmll": true,
+        "perder": false,
+        "equipo": true,
+        "vivo": true,
+        "siglo": true,
+        "pelicula": true,
+        "ganar": true
+      }
+    },
+    {
+      "nombre": "Eddie Guerrero",
+      "propiedades": {
+        "mascara": true,
+        "activo": false,
+        "aaa": true,
+        "cmll": true,
+        "perder": false,
+        "equipo": true,
+        "vivo": false,
+        "siglo": true,
+        "pelicula": false,
+        "ganar": false
+      }
+    },
+    {
+      "nombre": "Titan",
+      "propiedades": {
+        "mascara": true,
+        "activo": true,
+        "aaa": false,
+        "cmll": true,
+        "perder": false,
+        "equipo": false,
+        "vivo": true,
+        "siglo": false,
+        "pelicula": false,
+        "ganar": false
+      }
+    },
+    {
+      "nombre": "Octagon",
+      "propiedades": {
+        "mascara": true,
+        "activo": true,
+        "aaa": true,
+        "cmll": true,
+        "perder": false,
+        "equipo": false,
+        "vivo": true,
+        "siglo": true,
+        "pelicula": true,
+        "ganar": true
+      }
+    }
+  ]
+}
